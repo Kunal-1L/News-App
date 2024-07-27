@@ -2,7 +2,7 @@
 
 
 This application is developed by
-#Kunal Kumar, Graphic Era University
+# Kunal Kumar, Graphic Era University
 
 It basically allow users to search for News of city or country. It also
 allow user to specify time period in between which he wants to see News
