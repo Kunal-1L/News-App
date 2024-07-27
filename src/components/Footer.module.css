@@ -1,0 +1,10 @@
+.footer_parent {
+    height:4rem;
+    margin-top:4rem;
+}
+
+.footer_parent p{
+    text-align: center;
+    color:rgb(20, 21, 83)
+}
+

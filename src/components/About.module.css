@@ -1,0 +1,25 @@
+.about_head {
+  font-size: 3rem;
+  padding: 3rem 0rem 2rem 4rem;
+  color:rgb(22, 54, 107);
+}
+
+.about_desc {
+  font-size: 2rem;
+  padding: 0rem 8rem;
+  position: absolute;
+  animation: leftRight 0.6s ease-in-out forwards;
+  transform: translateX(-100%);
+  color:rgb(81, 59, 18);
+}
+
+@keyframes leftRight {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
